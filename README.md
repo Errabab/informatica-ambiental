@@ -1,4 +1,5 @@
 # Informatica Ambiental
+![portada](img/portada.png)
 
 ## Indice 
   1. ¿Qué es la contaminación ambiental?
