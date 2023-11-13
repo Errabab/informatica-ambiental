@@ -1,1 +1,1 @@
-# inform-tica-ambiental
+# informatica-ambiental
