@@ -1,8 +1,8 @@
 # Informatica Ambiental
 
 ## Indice 
-  1.¿Qué es la contaminación ambiental?
-  2.Residuos 
+  1. ¿Qué es la contaminación ambiental?
+  2. Residuos 
 
 ## Referencias
 
